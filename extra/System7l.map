@@ -48114,7 +48114,7 @@ c0e482f0 d CSWTCH.106
 c0e482fc d vga_arb_device_fops
 c0e48380 d shifts.3
 c0e4838c d masks.2
-c0e483a8 d CSWTCH.244
+c0e483a8 d CSWTCH.246
 c0e485b4 d err_msg.1
 c0e485dc d debugfs_stats_snapshot_fops
 c0e48660 d debugfs_stats_trigger_fops
@@ -54669,11 +54669,11 @@ c1145cfc r __pci_fixup_quirk_nfp6000574
 c1145d0c r __pci_fixup_quirk_citrine564
 c1145d1c r __pci_fixup_quirk_tigerpoint_bm_sts396
 c1145d2c R __end_pci_fixups_header
-c1145d2c r __pci_fixup_pci_fixup_d3cold_delay_1sec6296
+c1145d2c r __pci_fixup_pci_fixup_d3cold_delay_1sec6312
 c1145d2c R __start_pci_fixups_final
-c1145d3c r __pci_fixup_of_pci_make_dev_node6284
-c1145d4c r __pci_fixup_of_pci_make_dev_node6283
-c1145d5c r __pci_fixup_of_pci_make_dev_node6282
+c1145d3c r __pci_fixup_of_pci_make_dev_node6300
+c1145d4c r __pci_fixup_of_pci_make_dev_node6299
+c1145d5c r __pci_fixup_of_pci_make_dev_node6298
 c1145d6c r __pci_fixup_nvidia_ion_ahci_fixup6172
 c1145d7c r __pci_fixup_pci_fixup_no_msi_no_pme6104
 c1145d8c r __pci_fixup_pci_fixup_no_msi_no_pme6103
@@ -72983,7 +72983,7 @@ c1297eac d __initcall__kmod_ledtrig_panic__156_68_ledtrig_panic_init6
 c1297eb0 d __initcall__kmod_ledtrig_actpwr__156_185_actpwr_trig_init6
 c1297eb4 d __initcall__kmod_pcieportdrv__294_844_pcie_portdrv_init6
 c1297eb8 d __initcall__kmod_proc__366_472_pci_proc_init6
-c1297ebc d __initcall__kmod_pcie_brcmstb__471_2567_brcm_pcie_driver_init6
+c1297ebc d __initcall__kmod_pcie_brcmstb__471_2580_brcm_pcie_driver_init6
 c1297ec0 d __initcall__kmod_bcm2708_fb__377_1242_bcm2708_fb_init6
 c1297ec4 d __initcall__kmod_simplefb__370_683_simplefb_driver_init6
 c1297ec8 d __initcall__kmod_clk_fixed_factor__171_410_of_fixed_factor_clk_driver_init6

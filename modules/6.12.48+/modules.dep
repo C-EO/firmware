@@ -1291,6 +1291,7 @@ kernel/drivers/iio/light/as73211.ko.xz: kernel/drivers/iio/buffer/industrialio-t
 kernel/drivers/iio/light/bh1750.ko.xz: kernel/drivers/iio/industrialio.ko.xz
 kernel/drivers/iio/light/tcs3472.ko.xz: kernel/drivers/iio/buffer/industrialio-triggered-buffer.ko.xz kernel/drivers/iio/buffer/kfifo_buf.ko.xz kernel/drivers/iio/industrialio.ko.xz
 kernel/drivers/iio/light/tsl4531.ko.xz: kernel/drivers/iio/industrialio.ko.xz
+kernel/drivers/iio/light/veml6030.ko.xz: kernel/drivers/iio/industrialio.ko.xz kernel/drivers/base/regmap/regmap-i2c.ko.xz
 kernel/drivers/iio/light/veml6040.ko.xz: kernel/drivers/iio/industrialio.ko.xz kernel/drivers/base/regmap/regmap-i2c.ko.xz
 kernel/drivers/iio/light/veml6070.ko.xz: kernel/drivers/iio/industrialio.ko.xz
 kernel/drivers/iio/light/veml6075.ko.xz: kernel/drivers/iio/industrialio.ko.xz kernel/drivers/base/regmap/regmap-i2c.ko.xz

@@ -12848,6 +12848,9 @@ alias i2c:tcs3472 tcs3472
 alias i2c:tsl4531 tsl4531
 alias of:N*T*Camstaos,tsl4531C* tsl4531
 alias of:N*T*Camstaos,tsl4531 tsl4531
+alias of:N*T*Cvishay,veml6030C* veml6030
+alias of:N*T*Cvishay,veml6030 veml6030
+alias i2c:veml6030 veml6030
 alias i2c:veml6040 veml6040
 alias of:N*T*Cvishay,veml6040C* veml6040
 alias of:N*T*Cvishay,veml6040 veml6040

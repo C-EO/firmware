@@ -1381,6 +1381,7 @@ kernel/drivers/iio/light/as73211.ko
 kernel/drivers/iio/light/bh1750.ko
 kernel/drivers/iio/light/tcs3472.ko
 kernel/drivers/iio/light/tsl4531.ko
+kernel/drivers/iio/light/veml6030.ko
 kernel/drivers/iio/light/veml6040.ko
 kernel/drivers/iio/light/veml6070.ko
 kernel/drivers/iio/light/veml6075.ko

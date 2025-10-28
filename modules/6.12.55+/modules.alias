@@ -11482,6 +11482,14 @@ alias of:N*T*Cadi,adxl359C* adxl355_i2c
 alias of:N*T*Cadi,adxl359 adxl355_i2c
 alias of:N*T*Cadi,adxl355C* adxl355_i2c
 alias of:N*T*Cadi,adxl355 adxl355_i2c
+alias i2c:ad7998 ad799x
+alias i2c:ad7997 ad799x
+alias i2c:ad7994 ad799x
+alias i2c:ad7993 ad799x
+alias i2c:ad7992 ad799x
+alias i2c:ad7999 ad799x
+alias i2c:ad7995 ad799x
+alias i2c:ad7991 ad799x
 alias of:N*T*Cmicrochip,mcp3553C* mcp320x
 alias of:N*T*Cmicrochip,mcp3553 mcp320x
 alias of:N*T*Cmicrochip,mcp3551C* mcp320x

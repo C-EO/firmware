@@ -1258,6 +1258,7 @@ kernel/drivers/ssb/ssb.ko.xz:
 kernel/drivers/bcma/bcma.ko.xz:
 kernel/drivers/iio/accel/adxl355_core.ko.xz: kernel/drivers/iio/buffer/industrialio-triggered-buffer.ko.xz kernel/drivers/iio/buffer/kfifo_buf.ko.xz kernel/drivers/iio/industrialio.ko.xz
 kernel/drivers/iio/accel/adxl355_i2c.ko.xz: kernel/drivers/iio/accel/adxl355_core.ko.xz kernel/drivers/iio/buffer/industrialio-triggered-buffer.ko.xz kernel/drivers/iio/buffer/kfifo_buf.ko.xz kernel/drivers/iio/industrialio.ko.xz kernel/drivers/base/regmap/regmap-i2c.ko.xz
+kernel/drivers/iio/adc/ad799x.ko.xz: kernel/drivers/iio/buffer/industrialio-triggered-buffer.ko.xz kernel/drivers/iio/buffer/kfifo_buf.ko.xz kernel/drivers/iio/industrialio.ko.xz
 kernel/drivers/iio/adc/mcp320x.ko.xz: kernel/drivers/iio/industrialio.ko.xz
 kernel/drivers/iio/adc/mcp3422.ko.xz: kernel/drivers/iio/industrialio.ko.xz
 kernel/drivers/iio/adc/ti-ads1015.ko.xz: kernel/drivers/iio/buffer/industrialio-triggered-buffer.ko.xz kernel/drivers/iio/buffer/kfifo_buf.ko.xz kernel/drivers/iio/industrialio.ko.xz kernel/drivers/base/regmap/regmap-i2c.ko.xz

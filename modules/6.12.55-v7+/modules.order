@@ -1257,6 +1257,7 @@ kernel/drivers/ssb/ssb.ko
 kernel/drivers/bcma/bcma.ko
 kernel/drivers/iio/accel/adxl355_core.ko
 kernel/drivers/iio/accel/adxl355_i2c.ko
+kernel/drivers/iio/adc/ad799x.ko
 kernel/drivers/iio/adc/mcp320x.ko
 kernel/drivers/iio/adc/mcp3422.ko
 kernel/drivers/iio/adc/ti-ads1015.ko

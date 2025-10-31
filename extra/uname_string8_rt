@@ -1,1 +1,1 @@
-Linux version 6.12.55-v8-rt+ (dom@buildbot) (aarch64-linux-gnu-gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #1916 SMP PREEMPT_RT Tue Oct 28 14:12:23 GMT 2025
+Linux version 6.12.56-v8-rt+ (dom@buildbot) (aarch64-linux-gnu-gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #1917 SMP PREEMPT_RT Thu Oct 30 17:38:05 GMT 2025
